@@ -1,0 +1,24 @@
+23
+Fido 1 true
+Piston 0 false
+Vanilla 2 false
+Ella 1 false
+Puddles 10 false
+Capt.Milton 3 true
+Rex 4 false
+Sunflower 6 true
+Cameo 2 false
+Queeny 7 false
+St.Claire 0 true
+Fluffy 1 false
+Shadow 5 false
+Mason 2 false
+Rockette 14 false
+Barkster 3 false
+Lizzy 0 false
+Kippy 3 true
+Digger 7 false
+Mr.Smith 9 false
+Pikk 1 false
+Hunter 2 false
+MissPrissy 5 true
